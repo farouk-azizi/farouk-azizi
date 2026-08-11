@@ -69,8 +69,8 @@
 
 | Certification | Lien |
 |---|---|
-| 🏅 **Cyber Fundamentals** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XNYB4RCI8N.pdf) |
-| 🏅 **Pre Security Legacy** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUNWTLXGBD.pdf) |
+| 🏅 **Cyber Fundamentals 101** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XNYB4RCI8N.pdf) |
+| 🏅 **Pre Security (Legacy)** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUNWTLXGBD.pdf) |
 
 ---
 
