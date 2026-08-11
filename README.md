@@ -3,10 +3,10 @@
 ### Élève Ingénieur Cybersécurité & Cloud @ ESPRIT Tunisie
 **🔐 Offensive Security · 🛡️ Blue Team · ☁️ DevSecOps**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farouk--azizi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/farouk-azizi)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/faroukzizi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farouk--azizi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%26-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Faroukazizi)
 [![Email](https://img.shields.io/badge/Email-faroukazizi%40proton.me-blue?style=flat&logo=gmail)](mailto:faroukazizi@proton.me)
-[![PFE](https://img.shields.io/badge/Disponible-PFE%206%20mois%20d%C3%A8s%20Jan%202027-success?style=flat)](https://linkedin.com/in/farouk-azizi)
+[![PFE](https://img.shields.io/badge/Disponible-PFE%206%20mois%20d%C3%A8s%20Jan%202027-success?style=flat)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
 
 ---
 
@@ -67,7 +67,9 @@
 
 ## 📊 Stats
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/faroukzizi.png)
+![TryHackMe Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XNYB4RCI8N.pdf)
+
+![TryHackMe Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUNWTLXGBD.pdf)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farouk-azizi&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -77,6 +79,6 @@
 
 ## 📫 Contact
 
-**azizifarouk2@gmail.com** · [LinkedIn](https://linkedin.com/in/farouk-azizi) · [TryHackMe](https://tryhackme.com/p/faroukzizi)
+**faroukazizi@proton.me** · [LinkedIn](https://www.linkedin.com/in/farouk-azizi-19311727a/) · [TryHackMe](https://tryhackme.com/p/Faroukazizi)
 
 *Disponible pour un stage PFE de 6 mois à partir de janvier 2027 — Mobile en Europe 🇫🇷 🇧🇪 🇱🇺*
