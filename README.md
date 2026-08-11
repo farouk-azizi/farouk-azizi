@@ -4,7 +4,7 @@
 **🔐 Offensive Security · 🛡️ Blue Team · ☁️ DevSecOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farouk--azizi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%26-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Faroukazizi)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top5-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Faroukazizi)
 [![Email](https://img.shields.io/badge/Email-faroukazizi%40proton.me-blue?style=flat&logo=gmail)](mailto:faroukazizi@proton.me)
 [![PFE](https://img.shields.io/badge/Disponible-PFE%206%20mois%20d%C3%A8s%20Jan%202027-success?style=flat)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
 
@@ -16,7 +16,7 @@
 - 🔍 Expérience en **pentest black-box** (OWASP WSTG) : découverte de vulnérabilités critiques SQLi, XSS, IDOR en entreprise
 - 🛡️ Je construis des **labs de détection** : Wazuh SIEM/XDR, règles custom, simulation d'attaques, mapping MITRE ATT&CK
 - ☁️ Background **Cloud/DevOps** : OpenStack, Kubernetes, Docker, Ansible, AWS
-- 🏴 **Top 6% TryHackMe** (76+ rooms) · CTF player (Forensics, Web, AD)
+- 🏴 **Top 5% TryHackMe** (91+ rooms) · CTF player (Forensics, Web, AD)
 - 📜 **AWS Cloud Practitioner** · préparation **CWEE** (Hack The Box — examen nov. 2026)
 - 🎯 **Objectif : stage PFE de 6 mois en cybersécurité / DevSecOps — janvier 2027 (Europe)**
 
