@@ -65,11 +65,16 @@
 
 ---
 
+## 📜 Certifications & Badges
+
+| Certification | Lien |
+|---|---|
+| 🏅 **Cyber Fundamentals** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XNYB4RCI8N.pdf) |
+| 🏅 **Pre Security Legacy** — TryHackMe | [Voir le certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUNWTLXGBD.pdf) |
+
+---
+
 ## 📊 Stats
-
-![TryHackMe Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XNYB4RCI8N.pdf)
-
-![TryHackMe Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUNWTLXGBD.pdf)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farouk-azizi&show_icons=true&theme=github_dark&hide_border=true)
 
