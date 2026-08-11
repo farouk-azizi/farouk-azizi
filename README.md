@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farouk--azizi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/farouk-azizi)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/faroukzizi)
-[![Email](https://img.shields.io/badge/Email-azizifarouk2%40gmail.com-blue?style=flat&logo=gmail)](mailto:azizifarouk2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faroukazizi%40proton.me-blue?style=flat&logo=gmail)](mailto:faroukazizi@proton.me)
 [![PFE](https://img.shields.io/badge/Disponible-PFE%206%20mois%20d%C3%A8s%20Jan%202027-success?style=flat)](https://linkedin.com/in/farouk-azizi)
 
 ---
