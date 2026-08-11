@@ -4,7 +4,7 @@
 **🔐 Offensive Security · 🛡️ Blue Team · ☁️ DevSecOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farouk--azizi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top5-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Faroukazizi)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-5%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Faroukazizi)
 [![Email](https://img.shields.io/badge/Email-faroukazizi%40proton.me-blue?style=flat&logo=gmail)](mailto:faroukazizi@proton.me)
 [![PFE](https://img.shields.io/badge/Disponible-PFE%206%20mois%20d%C3%A8s%20Jan%202027-success?style=flat)](https://www.linkedin.com/in/farouk-azizi-19311727a/)
 
